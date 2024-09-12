@@ -1,0 +1,6 @@
+FROM phpmyadmin
+
+
+ENV MYSQL_USER=gyana
+ENV MYSQL_PASSWORD=root
+ENV MYSQL_ROOT_PASSWORD=root
